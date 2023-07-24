@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 int main(){
     
     printf("i like food\n");
