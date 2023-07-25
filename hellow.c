@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 int main(){
-    printf("i like food\n");
-    printf("i like jellof rice\n");
+    printf("\"i hate biden\" - johnathan walker");
     return 0;
 }
+
+
+
 
 
