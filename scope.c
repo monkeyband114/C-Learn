@@ -9,6 +9,7 @@ int main(int argc, char const *argv[])
 }
 
 void calculate(){
-    x = 25;
+    int x = 25;
     // run a bloclk of code 
 }
+
