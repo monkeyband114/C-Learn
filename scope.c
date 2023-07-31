@@ -8,7 +8,7 @@ int main(int argc, char const *argv[])
     return 0;
 }
 
-int calculate(){
+void calculate(){
     x = 25;
     // run a bloclk of code 
 }
