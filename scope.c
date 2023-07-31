@@ -2,10 +2,11 @@
 int y = 5;
 int main(int argc, char const *argv[])
 {
-    int x;
+    int x = 6;
     calculate();
     printf("%d", x);
     printf(y);
+    calulateGt(x, y);
     return 0;
 }
 
