@@ -10,8 +10,11 @@ int main() {
 
     printf("the value %d is a good value", x);
     printf("the value %f is a bad value", y);
-    printf("the value %a is good", vs);
+    printf("the value %a is good", vs); 
 }
+
+
+
 
 
 
