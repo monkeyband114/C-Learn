@@ -5,6 +5,7 @@ int main(int argc, char const *argv[])
     int x;
     calculate();
     printf("%d", x);
+    printf(y);
     return 0;
 }
 
