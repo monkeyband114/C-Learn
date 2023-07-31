@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-const int y = 5;
+int y = 5;
 int main(int argc, char const *argv[])
 {
     int x = 6;
