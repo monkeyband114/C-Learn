@@ -12,3 +12,9 @@ int main() {
     printf("the value %f is a bad value", y);
     printf("the value %a is good", vs);
 }
+
+
+
+
+
+
