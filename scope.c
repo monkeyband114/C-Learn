@@ -14,3 +14,6 @@ void calculate(){
     // run a bloclk of code 
 }
 
+int calulateGt(int x, int y){
+    return (x > y) ? x : y;
+}
